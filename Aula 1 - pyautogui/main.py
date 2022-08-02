@@ -12,7 +12,7 @@ pyautogui.press("win")
 pyautogui.write("chrome")
 pyautogui.press("enter")
 etc...
-time.sleep(5)
+time.sleep(4)
 pyautogui.position()
 """
 
